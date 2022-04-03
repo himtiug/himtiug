@@ -1,4 +1,4 @@
-<h1 align="center">Helloo 👋<br>Welcome to Official Github of HIMTI UG</h1>
+<h1 align="center">Helloo 👋<br>Welcome to Official Github of HIMTI UG 🇮🇩</h1>
 😕 What is HIMTI UG? HIMTI UG or HIMPUNAN MAHASISWA TEKNIK INFORMATIKA GUNADARMA UNIVERSITY is organization that houses all informatics engineering students of gunadarma university.<br>
 🔭 This platform is from and for HIMTI UG. <br>
 ⚡ Fun fact: This account was created only to collaborate for the official page of HIMTI UG with the team. <br>
