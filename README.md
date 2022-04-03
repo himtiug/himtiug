@@ -1,5 +1,5 @@
 <h1 align="center">Heloo 👋<br>Welcome to Official Github of HIMTI UG</h1>
-⚡ Fun fact: in first made account just for save our Official Website.
+⚡ Fun fact: in first made account just for save our Official Website. <br>
 📫 You can reach me on <a href="https://www.instagram.com/himtiug/">our official instagram</a>.
 <!--
 **himtiug/himtiug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
