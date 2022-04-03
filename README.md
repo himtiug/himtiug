@@ -1,5 +1,5 @@
-### Hi there 👋
-<h1 align="center">Heloo 👋<br>welcome to Official Github of HIMTI UG</h1>
+<h1 align="center">Heloo 👋<br>Welcome to Official Github of HIMTI UG</h1>
+- ⚡ Fun fact: in first made this just for save our Official Website
 <!--
 **himtiug/himtiug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
